@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>PMJP/Procon-JP</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body>
+    <div class="container" id="container">
+        <div class="form-container sign-up">
+            <form>
+                <h1>Cadastro do Técnico</h1>    
+                <span>Entrar com seu CPF</span>
+                <input type="text" placeholder="Nome">
+                <input type="cpf" placeholder="CPF">
+                <input type="text" class="form-control" id="inputNascimento" placeholder="dd/mm/aaaa">
+                <input type="text" class="form-control" id="inputSexo" placeholder="sexo">
+                <input type="text" class="form-control" id="inputEscolaridade" placeholder="Escolaridade">
+                <input type="text" class="form-control" id="inputTrabalho" placeholder="Trabalho Atualmente">
+                <input type="text" class="form-control" id="inputBairro" placeholder="Bairro">
+                <button>Cadastrar</button>
+            </form>
+        </div>
+        <div class="form-container sign-in">
+            <form>
+                <!-- <img src="./images/logo-pmjp.png" style="height: 20px;" alt=""> -->
+                <img src="./images/procon-jp-356x107.jpg" style height="70px" width="200px" alt="">
+                <div class="social-icons">
+                    <a href="#" class="icon">
+                        <i class="fa-brands fa-google-plus-g"></i>
+                    </a>
+                    <a href="#" class="icon">
+                        <i class="fa-brands fa-facebook-f"></i>
+                    </a>
+                    <a href="#" class="icon">
+                        <i class="fa-brands fa-github"></i>
+                    </a>
+                    <a href="#" class="icon">
+                        <i class="fa-brands fa-linkedin-in"></i>
+                    </a>
+                </div>
+                <span>Digite abaixo seu <strong>CPF</strong></span>
+                <label for="inputCPF"></label>
+                <input type="text" class="form-control" id="inputCPF" pattern="\d{3}\.\d{3}\.\d{3}-\d{2}" placeholder="000.000.000-00" required>
+                <a href="#">O uso do <span>CPF</span> é obrigatório para acessar o <strong>Sistema de Cadastro</strong>.</a>
+                <button>ENTRAR</button>
+                <img src="./images/logo-umti.png" style height="40px" width="110px" alt="">
+            </form>
+        </div>
+
+        <div class="toggle-container">
+            <div class="toggle">
+                <div class="toggle-panel toggle-left">
+                <!-- <img src="./images/logo-umti.png" style="height: 50px;" alt=""> -->
+                    <h1>Realize seu cadastro para utilizar o Sistema.</p>
+                    <button class="hidden" id="login">Voltar</button>
+                </div>
+                <div class="toggle-panel toggle-right">
+                    <h1>Informação Importante!</h1>
+                    <p>Sistema de cadastro de serviços reservado ao <strong>Procon-JP</strong>.</p>
+                    <button class="hidden" id="register">Realizar o Cadastro</button>
+                    <button class="hidden" id="register">Acesso ADM</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
