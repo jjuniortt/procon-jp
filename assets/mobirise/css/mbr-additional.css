@@ -1269,15 +1269,15 @@ a:hover {
 .cid-uaMFFvskO5 .title-wrap {
   color: #272727;
 }
-.cid-uaNWFcQJ9f {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/whatsapp-image-2024-05-27-at-10.55.12-2000x1500.jpg");
+.cid-ueGeuGG0sB {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/whatsapp-image-2024-05-27-at-10.55.12-1-2000x1500.jpg");
 }
-.cid-uaNWFcQJ9f .mbr-fallback-image.disabled {
+.cid-ueGeuGG0sB .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uaNWFcQJ9f .mbr-fallback-image {
+.cid-ueGeuGG0sB .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1286,155 +1286,43 @@ a:hover {
   position: absolute;
   top: 0;
 }
-.cid-uaNWFcQJ9f .row {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  align-items: center;
-}
 @media (max-width: 767px) {
-  .cid-uaNWFcQJ9f .row {
-    flex-wrap: wrap;
+  .cid-ueGeuGG0sB .col-content {
+    text-align: center;
   }
 }
-.cid-uaNWFcQJ9f .text-container {
-  width: 57% !important;
-  width: 100% !important;
-}
-@media (max-width: 767px) {
-  .cid-uaNWFcQJ9f .text-container {
-    width: 100% !important;
-  }
-}
-.cid-uaNWFcQJ9f .mbr-section-title {
+.cid-ueGeuGG0sB .label-text {
+  margin-bottom: 16px;
   color: #24262b;
 }
-.cid-uaNWFcQJ9f .colored-text {
-  line-height: inherit;
-  font-weight: inherit;
-  color: inherit;
-  color: #ee2524;
+.cid-ueGeuGG0sB .mbr-section-title {
+  color: #24262b;
 }
-.cid-uaNWFcQJ9f .mbr-text {
-  width: 68%;
-  margin-top: 1.2em;
-  color: #000000;
+.cid-ueGeuGG0sB .mbr-section-subtitle {
+  margin-top: 16px;
+  color: #24262b;
 }
-@media (max-width: 991px) {
-  .cid-uaNWFcQJ9f .mbr-text {
-    width: 83%;
-    margin-top: 1rem;
-  }
+.cid-ueGeuGG0sB .mbr-section-btn {
+  margin-top: 22px;
 }
-@media (max-width: 767px) {
-  .cid-uaNWFcQJ9f .mbr-text {
-    width: 100%;
-  }
+.cid-ueGeuGG0sB .text-container {
+  margin-top: 32px;
+  row-gap: 32px;
 }
-.cid-uaNWFcQJ9f .card-col {
-  display: flex;
-  width: 43% !important;
-  justify-content: flex-start;
+.cid-ueGeuGG0sB .text-item {
+  border-top: 2px solid #33363b;
+  padding-top: 1rem;
 }
 @media (max-width: 767px) {
-  .cid-uaNWFcQJ9f .card-col {
-    width: 100% !important;
-    justify-content: center;
+  .cid-ueGeuGG0sB .text-item {
+    text-align: center;
   }
 }
-.cid-uaNWFcQJ9f .card-wrapper {
-  display: flex;
-  margin-left: 8em;
-  justify-content: flex-start;
+.cid-ueGeuGG0sB .mbr-text {
+  color: #24262b;
 }
-@media (max-width: 991px) {
-  .cid-uaNWFcQJ9f .card-wrapper {
-    margin-left: 1em;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uaNWFcQJ9f .card-wrapper {
-    margin-top: 4em;
-    margin-left: 0;
-    justify-content: center;
-  }
-}
-.cid-uaNWFcQJ9f .card-box {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  max-width: 18em;
-  max-height: 18em;
-  width: 18em;
-  height: 18em;
-  border-radius: 50%;
-  background-color: transparent;
-  position: relative;
-}
-.cid-uaNWFcQJ9f .card-box .bg-hover {
-  position: absolute;
-  border-radius: 50%;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #f0f0f0;
-  transform: scale(0);
-  transition: .5s all;
-}
-.cid-uaNWFcQJ9f .card-box .mbr-iconfont {
-  position: relative;
-  z-index: 100;
-  display: block;
-  font-size: 6.5rem;
-  color: #EE2524;
-  transition: .5s all;
-  cursor: pointer;
-}
-.cid-uaNWFcQJ9f .card-box:hover .bg-hover {
-  transform: scale(1);
-}
-.cid-uaNWFcQJ9f .card-box:hover .mbr-iconfont {
-  transform: rotate(-45deg);
-}
-.cid-uaNWFcQJ9f .item-img {
-  position: absolute;
-  border-radius: 50%;
-  overflow: hidden;
-  transition: .5s all;
-  top: 1.5em;
-  left: 1.5em;
-  max-width: 15em;
-  max-height: 15em;
-  width: 100%;
-  height: 100%;
-  animation: img-move 5s infinite linear both;
-  cursor: pointer;
-}
-.cid-uaNWFcQJ9f .item-img img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-@keyframes img-move {
-  0% {
-    transform: rotate(0deg);
-  }
-  25% {
-    transform: rotate(90deg);
-  }
-  50% {
-    transform: rotate(180deg);
-  }
-  75% {
-    transform: rotate(270deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-.cid-uaNWFcQJ9f .mbr-text,
-.cid-uaNWFcQJ9f .mbr-section-btn {
+.cid-ueGeuGG0sB .address-text {
+  margin-top: 8px;
   color: #24262b;
 }
 .cid-ueF57Q8bfG {
