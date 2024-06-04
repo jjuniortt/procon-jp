@@ -22,11 +22,11 @@ body {
 }
 .display-4 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.38rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.5625rem;
+  font-size: 1.725rem;
 }
 .display-5 {
   font-family: 'Roboto', sans-serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.3 * (1.315rem + (1.9 - 1.315) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 1rem;
-    font-size: calc( 1.0875rem + (1.25 - 1.0875) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.0875rem + (1.25 - 1.0875) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.104rem;
+    font-size: calc( 1.133rem + (1.38 - 1.133) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.133rem + (1.38 - 1.133) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 0.904rem;
@@ -662,12 +662,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.38rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.5625rem;
+  font-size: 1.725rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -676,12 +676,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.38rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.5625rem;
+  font-size: 1.725rem;
 }
 blockquote {
   border-color: #b79b6c;
@@ -2013,10 +2013,11 @@ a:hover {
   color: #01004c;
 }
 .cid-uaRzLc4g3K .panel-text {
-  color: #01004c;
+  color: #000000;
 }
 .cid-uaRzLc4g3K .panel-title-edit {
   text-align: center;
+  color: #000000;
 }
 .cid-tZY5gIbtMq {
   padding-top: 0px;
