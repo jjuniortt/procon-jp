@@ -3232,6 +3232,33 @@ a:hover {
 .cid-uaMFFvskO5 .title-wrap {
   color: #272727;
 }
+.cid-uf2E4zcDXu {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-uf2E4zcDXu .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uf2E4zcDXu .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uf2E4zcDXu b,
+.cid-uf2E4zcDXu strong {
+  font-weight: 900;
+}
+.cid-uf2E4zcDXu .mbr-section-title {
+  color: #17003b;
+}
+.cid-uf2E4zcDXu .mbr-section-subtitle {
+  color: #17003b;
+}
 .cid-uaP1mpJoyI {
   padding-top: 5rem;
   padding-bottom: 0rem;
