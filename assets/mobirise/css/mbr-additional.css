@@ -6,11 +6,11 @@ body {
 }
 .display-1 {
   font-family: 'Roboto', sans-serif;
-  font-size: 2.9rem;
+  font-size: 2.3rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 3.625rem;
+  font-size: 2.875rem;
 }
 .display-2 {
   font-family: 'Roboto', sans-serif;
@@ -51,14 +51,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 2.32rem;
+    font-size: 1.84rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.03rem;
-    font-size: calc( 1.665rem + (2.9 - 1.665) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (1.665rem + (2.9 - 1.665) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.61rem;
+    font-size: calc( 1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.2rem;
@@ -3231,6 +3231,61 @@ a:hover {
 .cid-uaMFFvskO5 .navbar-caption-wrap,
 .cid-uaMFFvskO5 .title-wrap {
   color: #272727;
+}
+.cid-uf2G8RdMEQ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/whatsapp-image-2024-05-27-at-10.55.111-2000x1500.jpg");
+}
+.cid-uf2G8RdMEQ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uf2G8RdMEQ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) and (max-width: 992px) {
+  .cid-uf2G8RdMEQ .container {
+    padding: 0 24px;
+  }
+}
+.cid-uf2G8RdMEQ .content-wrapper {
+  padding: 32px;
+  border-bottom: 1px solid #72716b;
+}
+@media (max-width: 992px) {
+  .cid-uf2G8RdMEQ .content-wrapper {
+    padding: 24px;
+  }
+}
+.cid-uf2G8RdMEQ .content-wrapper .mbr-section-title {
+  margin-bottom: 16px;
+}
+.cid-uf2G8RdMEQ .content-wrapper .mbr-text {
+  margin-bottom: 0;
+}
+.cid-uf2G8RdMEQ .content-wrapper .mbr-section-btn {
+  margin-top: 32px;
+}
+@media (max-width: 992px) {
+  .cid-uf2G8RdMEQ .content-wrapper .mbr-section-btn {
+    margin-top: 24px;
+  }
+}
+.cid-uf2G8RdMEQ .mbr-section-title {
+  color: #F9F6E0;
+}
+.cid-uf2G8RdMEQ .mbr-text {
+  color: #ffffff;
+}
+.cid-uf2G8RdMEQ .mbr-section-title,
+.cid-uf2G8RdMEQ .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-uf2E4zcDXu {
   padding-top: 5rem;
