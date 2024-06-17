@@ -30,8 +30,9 @@ body {
 }
 .display-5 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.13rem;
+  font-size: 1rem;
   line-height: 1.5;
+  font-weight: bold;
 }
 .display-5 > .mbr-iconfont {
   font-size: 1.4125rem;
@@ -1303,7 +1304,7 @@ a:hover {
   margin-bottom: 0;
 }
 .cid-ufYCUOZw52 .title-wrapper .mbr-section-title {
-  margin-bottom: 64px;
+  margin-bottom: 34px;
 }
 @media (max-width: 992px) {
   .cid-ufYCUOZw52 .title-wrapper .mbr-section-title {
@@ -1311,10 +1312,10 @@ a:hover {
   }
 }
 .cid-ufYCUOZw52 .title-wrapper .mbr-text {
-  margin-bottom: 0;
+  margin-bottom: 30px;
 }
 .cid-ufYCUOZw52 .title-wrapper .mbr-section-btn {
-  margin-top: 64px;
+  margin-top: 34px;
 }
 @media (max-width: 992px) {
   .cid-ufYCUOZw52 .title-wrapper .mbr-section-btn {
