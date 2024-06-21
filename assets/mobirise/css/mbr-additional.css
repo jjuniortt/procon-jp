@@ -1488,8 +1488,8 @@ a:hover {
   margin-bottom: 0;
 }
 .cid-uf2x0rr1hL .card:hover .card-wrapper {
-  border: 3px solid #767676;
-  box-shadow: 4px 4px #767676;
+  border: 3px solid #9d2a2a;
+  box-shadow: 4px 4px #9d2a2a;
 }
 @media (max-width: 992px) {
   .cid-uf2x0rr1hL .card {
@@ -1498,9 +1498,9 @@ a:hover {
 }
 .cid-uf2x0rr1hL .card .card-wrapper {
   padding: 32px;
-  border: 3px solid #222222;
-  box-shadow: 4px 4px #222222;
-  background-color: #33363b;
+  border: 3px solid #efefef;
+  box-shadow: 4px 4px #efefef;
+  background-color: #efefef;
   border-radius: 32px;
   transition: all 0.3s ease-in-out;
 }
@@ -1549,17 +1549,17 @@ a:hover {
 }
 .cid-uf2x0rr1hL .mbr-link,
 .cid-uf2x0rr1hL .link-wrap {
-  color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 .cid-uf2x0rr1hL .mbr-card-title,
 .cid-uf2x0rr1hL .title-wrap {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uf2xqD3ipM {
   padding-top: 0rem;
-  padding-bottom: 7rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 .cid-uf2xqD3ipM .mbr-fallback-image.disabled {
@@ -1602,8 +1602,8 @@ a:hover {
   margin-bottom: 0;
 }
 .cid-uf2xqD3ipM .card:hover .card-wrapper {
-  border: 3px solid #767676;
-  box-shadow: 4px 4px #767676;
+  border: 3px solid #9d2a2a;
+  box-shadow: 4px 4px #9d2a2a;
 }
 @media (max-width: 992px) {
   .cid-uf2xqD3ipM .card {
@@ -1612,9 +1612,9 @@ a:hover {
 }
 .cid-uf2xqD3ipM .card .card-wrapper {
   padding: 32px;
-  border: 3px solid #222222;
-  box-shadow: 4px 4px #222222;
-  background-color: #33363b;
+  border: 3px solid #efefef;
+  box-shadow: 4px 4px #efefef;
+  background-color: #efefef;
   border-radius: 32px;
   transition: all 0.3s ease-in-out;
 }
@@ -1634,7 +1634,7 @@ a:hover {
 .cid-uf2xqD3ipM .card .card-wrapper .title-wrap .title .mbr-iconfont {
   font-size: 40px;
   margin-right: 12px;
-  color: #222222;
+  color: #01004c;
 }
 .cid-uf2xqD3ipM .card .card-wrapper .title-wrap .title .mbr-card-title {
   margin-bottom: 0;
@@ -1663,13 +1663,13 @@ a:hover {
 }
 .cid-uf2xqD3ipM .mbr-link,
 .cid-uf2xqD3ipM .link-wrap {
-  color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 .cid-uf2xqD3ipM .mbr-card-title,
 .cid-uf2xqD3ipM .title-wrap {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-ufuyUJCian {
   padding-top: 105px;
